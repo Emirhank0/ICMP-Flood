@@ -1,6 +1,5 @@
 from scapy.all import IP, ICMP, send
 
-
 hedef_ip     = "127.0.0.1"
 paket_sayisi = 100
 
